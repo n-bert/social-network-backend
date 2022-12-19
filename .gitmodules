@@ -1,0 +1,30 @@
+[submodule "social-network-backend-auth-service"]
+	path = social-network-backend-auth-service
+	url = git@github.com:n-bert/social-network-backend-auth-service.git
+[submodule "social-network-backend-api-gateway"]
+	path = social-network-backend-api-gateway
+	url = git@github.com:n-bert/social-network-backend-api-gateway.git
+[submodule "social-network-backend-content-service"]
+	path = social-network-backend-content-service
+	url = git@github.com:n-bert/social-network-backend-content-service.git
+[submodule "social-network-backend-direction-service"]
+	path = social-network-backend-direction-service
+	url = git@github.com:n-bert/social-network-backend-direction-service.git
+[submodule "social-network-backend-eureka-server"]
+	path = social-network-backend-eureka-server
+	url = git@github.com:n-bert/social-network-backend-eureka-server.git
+[submodule "social-network-backend-follower-service"]
+	path = social-network-backend-follower-service
+	url = git@github.com:n-bert/social-network-backend-follower-service.git
+[submodule "social-network-backend-like-service"]
+	path = social-network-backend-like-service
+	url = git@github.com:n-bert/social-network-backend-like-service.git
+[submodule "social-network-backend-notification-service"]
+	path = social-network-backend-notification-service
+	url = git@github.com:n-bert/social-network-backend-notification-service.git
+[submodule "social-network-backend-profile-service"]
+	path = social-network-backend-profile-service
+	url = git@github.com:n-bert/social-network-backend-profile-service.git
+[submodule "social-network-backend-upload-service"]
+	path = social-network-backend-upload-service
+	url = git@github.com:n-bert/social-network-backend-upload-service.git
